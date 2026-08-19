@@ -22,6 +22,7 @@ By the end of this lab you will have:
 
 1. Copy `starter/` into your own repository (or a new one), push it to GitHub, and create a
    Jenkins Pipeline job pointing at it. Ask your trainer if you're unsure how to create the job.
+   
 2. Click **Build Now** and watch the stage view.
 3. Once the build finishes, open **Console Output** and find the error. Note down the exact
    error message and which stage it occurred in.
